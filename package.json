@@ -1,0 +1,19 @@
+{
+  "author":  "Lev Maximov",
+  "name": "asleep",
+  "description": "Asynchronous sleep() for nodejs",
+  "version": "0.1.1",
+  "homepage": "https://github.com/axil/node-asleep",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:axil/node-asleep.git"
+  },
+  "keywords": [
+    "asynchronous", 
+    "sleep"
+  ],
+  "main": "./main.js",
+  "engines": {
+    "node": "*"
+  }
+}
